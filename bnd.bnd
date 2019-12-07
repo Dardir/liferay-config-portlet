@@ -1,0 +1,4 @@
+Bundle-Name: swift-config
+Bundle-SymbolicName: swift.configuration
+Bundle-Version: 1.0.0
+Export-Package: swift.configuration.constants
